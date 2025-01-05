@@ -1,6 +1,6 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="梅罗斯跑步或睡觉"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
